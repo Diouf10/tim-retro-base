@@ -1,0 +1,22 @@
+.citation .conteneur {
+  background-image: url(../../images/bg-citation.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-attachment: fixed;
+  color: var(--couleur-blanc--);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+
+
+h3{
+  font-size: 40px;
+  text-transform: uppercase;
+  line-height: 54px;
+}
+
+
+}
